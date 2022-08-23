@@ -1,6 +1,8 @@
 const fs = require('fs');
 const filePath = './input.txt';
 
+// 음계
+
 let acount = 0;
 let dcount = 0;
 let input = fs.readFileSync(filePath).toString().trim().split(' ');

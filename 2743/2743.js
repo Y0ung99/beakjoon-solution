@@ -1,3 +1,5 @@
+// 단어길이재기
+
 const fs = require('fs');
 const filePath = './input.txt';
 
